@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Work
+title: Work Experience
 description: Selected sample projects by Maya Chen, including product strategy, brand and web design, and design systems.
-permalink: /work/
+permalink: /experience/
 ---
 
 <div class="page-intro">

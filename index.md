@@ -9,7 +9,7 @@ description: Maya Chen is a product designer and front-end developer focused on 
   <h1 id="hero-title">I make digital products feel a little more <em>human.</em></h1>
   <p class="hero__lede">I work with curious teams to turn complex ideas into clear, useful experiences — from the first sketch to the final pixel.</p>
   <div class="hero__actions">
-    <a class="button button--primary" href="{{ '/work/' | relative_url }}">See selected work <span aria-hidden="true">↗</span></a>
+    <a class="button button--primary" href="{{ '/experience/' | relative_url }}">See selected work <span aria-hidden="true">↗</span></a>
     <a class="text-link" href="{{ '/contact/' | relative_url }}">Let’s talk <span aria-hidden="true">→</span></a>
   </div>
   <p class="hero__note"><span class="status-dot" aria-hidden="true"></span> Currently open to thoughtful collaborations</p>
@@ -45,22 +45,22 @@ description: Maya Chen is a product designer and front-end developer focused on 
       <p class="eyebrow">Selected work</p>
       <h2 id="work-preview-title">A sample of recent projects.</h2>
     </div>
-    <a class="text-link" href="{{ '/work/' | relative_url }}">View all work <span aria-hidden="true">→</span></a>
+    <a class="text-link" href="{{ '/experience/' | relative_url }}">View all work <span aria-hidden="true">→</span></a>
   </div>
   <div class="project-list">
-    <a class="project-row" href="{{ '/work/' | relative_url }}#northstar">
+    <a class="project-row" href="{{ '/experience/' | relative_url }}#northstar">
       <span class="project-row__index">01</span>
       <span class="project-row__name">Northstar</span>
       <span class="project-row__type">Product strategy · 2024</span>
       <span class="project-row__arrow" aria-hidden="true">↗</span>
     </a>
-    <a class="project-row" href="{{ '/work/' | relative_url }}#field-notes">
+    <a class="project-row" href="{{ '/experience/' | relative_url }}#field-notes">
       <span class="project-row__index">02</span>
       <span class="project-row__name">Field Notes</span>
       <span class="project-row__type">Brand + web design · 2023</span>
       <span class="project-row__arrow" aria-hidden="true">↗</span>
     </a>
-    <a class="project-row" href="{{ '/work/' | relative_url }}#common-ground">
+    <a class="project-row" href="{{ '/experience/' | relative_url }}#common-ground">
       <span class="project-row__index">03</span>
       <span class="project-row__name">Common Ground</span>
       <span class="project-row__type">Design system · 2023</span>
