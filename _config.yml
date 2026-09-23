@@ -1,0 +1,19 @@
+title: Maya Chen — Product designer & front-end developer
+description: A fictional portfolio for Maya Chen, a product designer and front-end developer who makes digital products feel more human.
+url: "https://mayachen.github.io"
+baseurl: ""
+repository: "mayachen/mayachen.github.io"
+lang: en-US
+timezone: America/Los_Angeles
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - PLAN.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
